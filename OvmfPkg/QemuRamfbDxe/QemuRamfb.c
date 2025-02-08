@@ -44,14 +44,6 @@ STATIC FIRMWARE_CONFIG_ITEM    mRamfbFwCfgItem;
 STATIC EFI_GRAPHICS_OUTPUT_MODE_INFORMATION  mQemuRamfbModeInfo[] = {
   {
     0,    // Version
-    640,  // HorizontalResolution
-    480,  // VerticalResolution
-  },{
-    0,    // Version
-    800,  // HorizontalResolution
-    600,  // VerticalResolution
-  },{
-    0,    // Version
     1024, // HorizontalResolution
     768,  // VerticalResolution
   }
