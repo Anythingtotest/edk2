@@ -148,12 +148,6 @@ typedef struct {
 } GOP_RESOLUTION;
 
 STATIC CONST GOP_RESOLUTION  mGopResolutions[] = {
-  { 640,  480  },
-  { 800,  480  },
-  { 800,  600  },
-  { 832,  624  },
-  { 960,  640  },
-  { 1024, 600  },
   { 1024, 768  },
   { 1152, 864  },
   { 1152, 870  },
